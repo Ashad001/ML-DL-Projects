@@ -19,7 +19,7 @@ soc.bind((HostName, port))   # Bind the socket with the local machine and on por
 while True:
     data, clientAdd = soc.recvfrom(CHUNK)
     message = data.decode('ascii')  # As data travels in byte so we have to convert it into ascii
-    # print(f'Client {soc.getsockname()}: {message}')
+    print(f'Client: {message}')
     message_sent = input("Server: ")
     data = message_sent.encode('ascii')
     # Now just send the data to IP add that sent the data
