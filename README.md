@@ -6,15 +6,14 @@ Feel free to explore the projects and use them as a reference or starting point 
 
 ## Project List
 
-1. **Project 1**: [ChatBot](https://github.com/Ashad001/PythonProjects/tree/main/ChatBot)
-    - Description: It is a simple project where a client and server can communicate with each other.
+1. **Project 1**: [Email Spam Detection](https://github.com/Ashad001/PythonProjects/tree/main/EmailSpamChecker)
+   - Description: Neural network based email spam detection using Tensorflow
 
-2. **Project 2**: [Email Spam Detection](https://github.com/Ashad001/PythonProjects/tree/main/EmailSpamChecker)
-   - Description: Neural network based email spam detection using tensorflow
+2. **Project 2**: [Titanic Survival Prediction](https://github.com/Ashad001/PythonProjects/tree/main/TitanicSurvivor)
+   - Description: Titanic survival prediction usign keras Neural Network with TensorFlow
 
 ## Contributions
-
 Contributions to the projects are welcome! If you have any bug fixes, feature enhancements, or new project suggestions, feel free to submit a pull request or open an issue.
 
 ## License
-This repository is licensed under the MIT License. 
+This repository is licensed under the [GPL 3.0 License](https://github.com/Ashad001/PythonProjects/blob/main/LICENSE).
