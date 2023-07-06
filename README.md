@@ -15,6 +15,8 @@ Feel free to explore the projects and use them as a reference or starting point 
 3. **Project 3**: [House Price Prediction (Advanced)](https://github.com/Ashad001/ML-DL-Projects/tree/main/HousePricePrediction)
    - Description: House price prediction using RandomForest and XGBoost algorithm.
 
+4- **Project 4**: [HandWritten Digit Recognition](https://github.com/Ashad001/ML-DL-Projects/tree/main/HandWrittenDigitClassification)
+
 ## Contributions
 Contributions to the projects are welcome! If you have any bug fixes, feature enhancements, or new project suggestions, feel free to submit a pull request or open an issue.
 
