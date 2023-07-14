@@ -18,8 +18,10 @@ This project predicts house prices in California using RandomForest. It provides
 2. Adjust the sliders to input property details.
 3. The model will predict the house price based on the given inputs.
 4. The California map visualizes the training set, highlighting the predicted property location.
-![Project Screenshot]('/hpp1.png')
-![Project Screenshot]("/hpp2.png")
+
+## Screenshots
+![Project Screenshot](hpp1.png)
+![Project Screenshot](hpp2.png)
 
 
 Feel free to explore and interact with the application to predict house prices in California.
