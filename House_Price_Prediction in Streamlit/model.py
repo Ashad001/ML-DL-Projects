@@ -32,10 +32,5 @@ xgb = XGBRegressor(random_state=0)
 xgb.fit(train_X, train_Y)
 print(f"XGBoost Score: {xgb.score(test_X, test_Y)}")
 
-# Random Forest Score ~ 81
-# XGBoost Score ~ 82 + Faster
-# ---------- XGBoost Performed Well ----------
 
-# Save the model using pickle
-
-joblib.dump(xgb , 'model_jlib')
+joblib.dump(forest , 'model_jlib')
