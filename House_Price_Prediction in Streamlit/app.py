@@ -20,13 +20,13 @@ class HousePricePrediction:
         self.setTheme("California House Price Prediction")
         self.SideBar()
         model, predition = self.model_predictions()
-        
+
         st.subheader("Scatter Plot")
         fig = plt.figure(figsize=(10, 4))
         sns.scatterplot(x=df['latitude'], y=df['longitude'],
                         data=df, hue=df['median_house_value'])
         plt.scatter(x=self.latitude, y=self.longitude, label='Prediction')
-        
+
         st.pyplot(fig)
         st.subheader("California Map visualized on training set")
         st.map(df)
@@ -108,7 +108,7 @@ class HousePricePrediction:
 
     def model_predictions(self):
         model = joblib.load(
-            'E:/SecondSummer/Projects/ML/ML-DL-Projects/House_Price_Prediction in Streamlit/model_jlib')
+            'model_jlib')
         # model = pickle.load('E:/SecondSummer/Projects/ML/ML-DL-Projects/House_Price_Prediction in Streamlit/model_jlib')
         yhat = model.predict(self.input_data)
         st.write('Model predictions: ', round(yhat[0], 2))
