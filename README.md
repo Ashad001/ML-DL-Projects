@@ -20,6 +20,10 @@ Feel free to explore the projects and use them as a reference or starting point 
 
 5. **Project 5**: [House price prediction in Streamlit](https://github.com/Ashad001/ML-DL-Projects/tree/main/House_Price_Prediction%20in%20Streamlit)
    - Description: House price prediction visualized in Streamlit UI using Random Forest 
+
+6. **Project 6**: [Credit Card Fraud Detection](https://github.com/Ashad001/ML-DL-Projects/tree/main/CreditCard%20Fraud%20Detection)
+   - Description: `Ongoing`
+
 ## Contributions
 Contributions to the projects are welcome! If you have any bug fixes, feature enhancements, or new project suggestions, feel free to submit a pull request or open an issue.
 
