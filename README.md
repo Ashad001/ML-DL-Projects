@@ -24,6 +24,9 @@ Feel free to explore the projects and use them as a reference or starting point 
 6. **Project 6**: [Credit Card Fraud Detection](https://github.com/Ashad001/ML-DL-Projects/tree/main/CreditCard%20Fraud%20Detection)
    - Description: `Ongoing`
 
+7. **Project 7**: [Fashion Mnist Image Classification](https://github.com/Ashad001/ML-DL-Projects/tree/main/Fashion_mnist_classifier)
+   - Description: Demonstrates fashion item image classification using a Convolutional Neural Network (CNN) on the Fashion MNIST dataset with early stopping and model evaluation.
+
 ## Contributions
 Contributions to the projects are welcome! If you have any bug fixes, feature enhancements, or new project suggestions, feel free to submit a pull request or open an issue.
 
