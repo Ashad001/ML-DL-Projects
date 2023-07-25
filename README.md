@@ -27,7 +27,7 @@ Feel free to explore the projects and use them as a reference or starting point 
 7. **Project 7**: [Fashion Mnist Image Classification](https://github.com/Ashad001/ML-DL-Projects/tree/main/Fashion_mnist_classifier)
    - Description: Demonstrates fashion item image classification using a Convolutional Neural Network (CNN) on the Fashion MNIST dataset with early stopping and model evaluation.
 
-8. **Project 8**: [Cats and Dogs Image Recognition](https://github.com/Ashad001/ML-Projects/tree/main/Cats-and-Classifier)
+8. **Project 8**: [Cats and Dogs Image Recognition](https://github.com/Ashad001/ML-DL-Projects/tree/main/Cats-Dog-Classifier)
    - Description: This project aims to classify images of cats and dogs using image recognition and deep learning techniques.
 
 
