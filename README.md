@@ -30,6 +30,9 @@ Feel free to explore the projects and use them as a reference or starting point 
 8. **Project 8**: [Cats and Dogs Image Recognition](https://github.com/Ashad001/ML-DL-Projects/tree/main/Cats-Dog-Classifier)
    - Description: This project aims to classify images of cats and dogs using image recognition and deep learning techniques.
 
+9. **Project 9**: [Sign Language Multi-Class Classification](https://github.com/Ashad001/ML-DL-Project/tree/main/SignLanguageMNIST)
+   - Description: Multi-Class Classification of Sign Language MNIST using Convolutional Neural Networks
+
 
 ## Contributions
 Contributions to the projects are welcome! If you have any bug fixes, feature enhancements, or new project suggestions, feel free to submit a pull request or open an issue.
