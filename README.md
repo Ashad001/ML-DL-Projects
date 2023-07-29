@@ -33,6 +33,9 @@ Feel free to explore the projects and use them as a reference or starting point 
 9. **Project 9**: [Sign Language Multi-Class Classification](https://github.com/Ashad001/ML-DL-Project/tree/main/SignLanguageMNIST)
    - Description: Multi-Class Classification of Sign Language MNIST using Convolutional Neural Networks
 
+10. **Project 10**: [Generating Text in Poetry](https://github.com/Ashad001/ML-DL-Project/tree/main/PoetryGenerator)
+   - Description: This project aims to create a text generator model trained on Shakespeare's sonnets to predict the next word in a given text sequence.
+
 
 ## Contributions
 Contributions to the projects are welcome! If you have any bug fixes, feature enhancements, or new project suggestions, feel free to submit a pull request or open an issue.
