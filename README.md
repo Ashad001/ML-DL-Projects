@@ -39,7 +39,7 @@ Feel free to explore the projects and use them as a reference or starting point 
 11. **Project 11**: [Sunspot Prediction](https://github.com/Ashad001/ML-DL-Projects/tree/main/Subspots_analysis)
       - Description: This project will use time series data of past sunspot data for prediction using RNNs and LSTMs
 
-12. **Project 12**: [Temperatur Prediction](https://github.com/Ashad001/ML-DL-Projects/tree/main/Temperature_analysis)
+12. **Project 12**: [Temperature Prediction](https://github.com/Ashad001/ML-DL-Projects/tree/main/Temperature_analysis)
       - Description: This project will use real life time series data of temperature of melbourne and make predictions using combinations of RNNs, CNNs and LSTMs 
 
 ## Contributions
