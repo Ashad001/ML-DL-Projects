@@ -30,15 +30,20 @@ Feel free to explore the projects and use them as a reference or starting point 
 8. **Project 8**: [Cats and Dogs Image Recognition](https://github.com/Ashad001/ML-DL-Projects/tree/main/Cats-Dog-Classifier)
    - Description: This project aims to classify images of cats and dogs using image recognition and deep learning techniques.
 
-9. **Project 9**: [Sign Language Multi-Class Classification](https://github.com/Ashad001/ML-DL-Project/tree/main/SignLanguageMNIST)
+9. **Project 9**: [Sign Language Multi-Class Classification](https://github.com/Ashad001/ML-DL-Projects/tree/main/SignLanguageMNIST)
    - Description: Multi-Class Classification of Sign Language MNIST using Convolutional Neural Networks
 
-10. **Project 10**: [Generating Text in Poetry](https://github.com/Ashad001/ML-DL-Project/tree/main/PoetryGenerator)
-   - Description: This project aims to create a text generator model trained on Shakespeare's sonnets to predict the next word in a given text sequence.
+10. **Project 10**: [Generating Text in Poetry](https://github.com/Ashad001/ML-DL-Projects/tree/main/PoetryGenerator)
+      - Description: This project aims to create a text generator model trained on Shakespeare's sonnets to predict the next word in a given text sequence.
 
+11. **Project 11**: [Sunspot Prediction](https://github.com/Ashad001/ML-DL-Projects/tree/main/Subspots_analysis)
+      - Description: This project will use time series data of past sunspot data for prediction using RNNs and LSTMs
+
+12. **Project 12**: [Temperatur Prediction](https://github.com/Ashad001/ML-DL-Projects/tree/main/Temperature_analysis)
+      - Description: This project will use real life time series data of temperature of melbourne and make predictions using combinations of RNNs, CNNs and LSTMs 
 
 ## Contributions
 Contributions to the projects are welcome! If you have any bug fixes, feature enhancements, or new project suggestions, feel free to submit a pull request or open an issue.
 
 ## License
-This repository is licensed under the [GPL 3.0 License](https://github.com/Ashad001/PythonProjects/blob/main/LICENSE).
+This repository is licensed under the [GPL 3.0 License](https://github.com/Ashad001/ML-DL-Projects/blob/main/LICENSE).
