@@ -54,7 +54,7 @@ Contributions to the projects are welcome! If you have any bug fixes, feature en
 
 ## Contact Information
 
-For questions, suggestions, or collaborations, please contact [ashad001sp@email.com](mailto:ashad001sp@email.com).
+For questions, suggestions, or collaborations, please contact [ashad001sp@gmail.com](mailto:ashad001sp@gmail.com).
 
 ## License
 This repository is licensed under the [GPL 3.0 License](https://github.com/Ashad001/ML-DL-Projects/blob/main/LICENSE).
