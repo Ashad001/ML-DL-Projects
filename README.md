@@ -40,10 +40,21 @@ Feel free to explore the projects and use them as a reference or starting point 
        - Description: This project will use time series data of past sunspot data for prediction using RNNs and LSTMs.
 
 12. **Project 12**: [Temperature Prediction](https://github.com/Ashad001/ML-DL-Projects/tree/main/Temperature_analysis)
-    - Description: This project will use real-life time series data of temperature in Melbourne and make predictions using combinations of RNNs, CNNs, and LSTMs.
+      - Description: This project will use real-life time series data of temperature in Melbourne and make predictions using combinations of RNNs, CNNs, and LSTMs.
+
+13. **Project 13**: [Dialogue Summarization using Generative AI](https://github.com/Ashad001/ML-DL-Projects/tree/main/DialogueSummarize)
+      - Description: This project uses HuggingFace FLAN-T5 model to summarize text and features techniques to improve model performance.  
+
+## Acknolegments
+
+Some projects are part of a Lab assignment from deeplearning.ai courses and are mentioned in project's README!
 
 ## Contributions
 Contributions to the projects are welcome! If you have any bug fixes, feature enhancements, or new project suggestions, feel free to submit a pull request or open an issue.
+
+## Contact Information
+
+For questions, suggestions, or collaborations, please contact [ashad001@email.com](mailto:ashad001@email.com).
 
 ## License
 This repository is licensed under the [GPL 3.0 License](https://github.com/Ashad001/ML-DL-Projects/blob/main/LICENSE).
