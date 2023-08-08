@@ -4,6 +4,8 @@ This repository contains a collection of my Python projects related to Machine L
 
 Feel free to explore the projects and use them as a reference or starting point for your own projects. If you find them helpful or have any suggestions for improvements, please let me know!
 
+Note: If you cant open the notebooks directly you can either download the notebook or copy the link and open in nbviewer for preview. 
+
 ## Project List
 
 1. **Project 1**: [Email Spam Detection](https://github.com/Ashad001/PythonProjects/tree/main/EmailSpamChecker)
@@ -43,11 +45,11 @@ Feel free to explore the projects and use them as a reference or starting point 
       - Description: This project will use real-life time series data of temperature in Melbourne and make predictions using combinations of RNNs, CNNs, and LSTMs.
 
 13. **Project 13**: [Dialogue Summarization using Generative AI](https://github.com/Ashad001/ML-DL-Projects/tree/main/DialogueSummarize)
-      - Description: This project uses HuggingFace FLAN-T5 model to summarize text and features techniques to improve model performance.  
+      - Description: This project uses HuggingFace' FLAN-T5 model to summarize text and features techniques to improve model performance.  
 
 ## Acknolegments
 
-Some projects are part of a Lab assignment from deeplearning.ai courses and are mentioned in project's README!
+Some projects are part of Lab assignments from deeplearning.ai courses and are mentioned in project's README!
 
 ## Contributions
 Contributions to the projects are welcome! If you have any bug fixes, feature enhancements, or new project suggestions, feel free to submit a pull request or open an issue.
