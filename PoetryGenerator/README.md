@@ -17,6 +17,12 @@ The model architecture consists of three layers:
 2. A Bidirectional LSTM layer with 100 units, which helps capture context from both directions in the input sequence.
 3. A Dense layer with a size equal to `total_words` and a softmax activation function, used for predicting the next word from the vocabulary.
 
+
+## Acknowledgments
+
+This project is part of a Lab assignment from deeplearning.ai course "Natural Language Processing with Tensorflow" from coursera 
+
+
 ## License
 
 This project is licensed under the GPL (GNU General Public License).

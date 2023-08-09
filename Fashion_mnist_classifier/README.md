@@ -25,7 +25,10 @@ Simply execute the provided Python script. Ensure that the required libraries ar
 
 **Important:** The model training may take some time, depending on your hardware.
 
+
 ### Acknowledgments
-The Fashion MNIST dataset is used under the TensorFlow Keras API. The CNN architecture is a basic example and can be modified for different image classification tasks.
+
+This project is part of a Lab assignment from deeplearning.ai course "Computer Vision with Tensorflow" from coursera 
+
 
 Feel free to explore and improve the model for better accuracy and performance!

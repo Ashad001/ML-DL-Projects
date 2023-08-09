@@ -29,6 +29,10 @@ After training the CNN on the pre-processed data, we achieved the following perf
 
 The model demonstrates promising results in accurately classifying the sign language images.
 
+## Acknowledgments
+This project is part of the Lab Assignment from the course "Natural Language Processing in Tensorflow" by deeplearning.ai from coursera.
+
+
 ## Conclusion
 
 This project successfully tackled the multi-class classification problem of recognizing sign language images depicting the English alphabet using a Convolutional Neural Network. By pre-processing the data and training the CNN model, we achieved notable accuracy levels on the training and validation sets.

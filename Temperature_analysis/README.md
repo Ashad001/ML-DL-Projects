@@ -16,6 +16,11 @@ Run the notebook in you IDE
 
 The model's predictions will be evaluated using relevant metrics, and the results will be visualized for analysis.
 
+
+## Acknowledgments
+
+This project is part of a Lab assignment from deeplearning.ai course "Time Series Data with Tensorflow" from coursera 
+
 ## Contributing
 
 Contributions to this project are highly appreciated. If you discover any issues or have ideas for enhancements, please feel free to open an issue or submit a pull request.
